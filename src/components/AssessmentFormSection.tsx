@@ -184,7 +184,7 @@ export const AssessmentFormSection: React.FC<AssessmentFormSectionProps> = ({
             <h2 className="cosmic-h2">Contact &amp; Service Enquiry</h2>
           </div>
           <p className="cosmic-lead">
-            Schedule an appointment at our Church Street workshop or request an initial assessment
+            Schedule an appointment at our Hatton Garden workshop or request an initial assessment
             for your timepiece.
           </p>
         </div>
@@ -252,7 +252,7 @@ export const AssessmentFormSection: React.FC<AssessmentFormSectionProps> = ({
               </div>
               <div className="whatsapp-copy">
                 <span>INSTANT WHATSAPP ENQUIRY</span>
-                <p>Chat directly with our Church Street watchmakers</p>
+                <p>Chat directly with our Hatton Garden watchmakers</p>
               </div>
               <ExternalLink size={16} className="whatsapp-ext" aria-hidden="true" />
             </a>
@@ -362,7 +362,7 @@ export const AssessmentFormSection: React.FC<AssessmentFormSectionProps> = ({
                       autoComplete="tel"
                       pattern="[0-9+\-\s()]{7,22}"
                       aria-describedby={phoneHintId}
-                      placeholder="e.g. +44 7737 364429"
+                      placeholder="e.g. 020 7242 9998"
                       value={phone}
                       onBlur={handleControlBlur}
                       onInput={handleControlInput}

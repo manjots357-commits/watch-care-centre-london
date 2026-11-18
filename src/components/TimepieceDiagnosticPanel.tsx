@@ -25,7 +25,7 @@ export const TimepieceDiagnosticPanel: React.FC<TimepieceDiagnosticPanelProps> =
             <h2 className="cosmic-h2">Timepiece Diagnostic Triage.</h2>
           </div>
           <p className="cosmic-lead">
-            Select an observed symptom below to inspect our Church Street watchmakers’ recommended
+            Select an observed symptom below to inspect our Hatton Garden watchmakers’ recommended
             diagnostic protocol, test apparatus, and estimated workshop turnaround.
           </p>
         </div>

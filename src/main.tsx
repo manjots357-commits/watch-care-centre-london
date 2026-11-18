@@ -32,12 +32,12 @@ class RootSafetyBoundary extends Component<
         >
           <div style={{ maxWidth: '38rem', textAlign: 'center' }}>
             <h1 style={{ color: '#c084fc', marginBottom: '0.75rem' }}>
-              Watch Care Centre Ltd — London NW8
+              Peri Watch Care Ltd — London EC1N
             </h1>
             <p style={{ color: '#d4cce6', marginBottom: '1.25rem' }}>
-              Shop G105, 13–25 Church Street, London NW8 8DT ·{' '}
-              <a href="tel:+447737364429" style={{ color: '#f3c677' }}>
-                +44 7737 364429
+              New House, 67–68 Hatton Garden, London EC1N 8JY ·{' '}
+              <a href="tel:+442072429998" style={{ color: '#f3c677' }}>
+                020 7242 9998
               </a>
             </p>
           </div>

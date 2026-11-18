@@ -110,7 +110,7 @@ export const CosmicNavbar: React.FC<CosmicNavbarProps> = ({
             </span>
             <span className="brand-wordmark-stack">
               <span className="brand-serif-primary">{ATELIER_INFO.brandTitle}</span>
-              <span className="brand-sans-city">CHURCH ST · {ATELIER_INFO.brandCity} NW8</span>
+              <span className="brand-sans-city">HATTON GARDEN · {ATELIER_INFO.brandCity} EC1N</span>
             </span>
           </a>
 
@@ -140,7 +140,7 @@ export const CosmicNavbar: React.FC<CosmicNavbarProps> = ({
           <div className="capsule-right-actions">
             <a href={ATELIER_INFO.phoneHref} className="capsule-phone-chip">
               <Phone size={13} aria-hidden="true" />
-              <span>NW8 BENCH</span>
+              <span>EC1N BENCH</span>
             </a>
 
             <button
@@ -184,7 +184,7 @@ export const CosmicNavbar: React.FC<CosmicNavbarProps> = ({
             onClick={(e) => e.stopPropagation()}
           >
             <div className="drawer-top-row">
-              <span className="brand-serif-primary">WATCH CARE CENTRE</span>
+              <span className="brand-serif-primary">PERI WATCH CARE</span>
               <button
                 ref={closeBtnRef}
                 type="button"

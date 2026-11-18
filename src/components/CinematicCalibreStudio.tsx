@@ -386,7 +386,7 @@ export const CinematicCalibreStudio: React.FC<CinematicCalibreStudioProps> = ({
             <h3 className="bench-panel-title">Select a Calibre Zone to Inspect</h3>
             <p className="bench-panel-sub">
               Jump directly to each watchmaker station inside the 3D chronograph movement to review
-              our Church Street NW8 tolerances and Swiss bench tooling.
+              our Hatton Garden EC1N tolerances and Swiss bench tooling.
             </p>
           </div>
 

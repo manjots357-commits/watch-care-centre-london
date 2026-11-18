@@ -120,7 +120,7 @@ export const MacroCinemaReel: React.FC<MacroCinemaReelProps> = ({ onBookWaterSea
           <div className="reel-switcher-group">
             <p className="cosmic-lead">
               Close-focus optical inspection of screw-down caseback architecture, gasket channels,
-              and mirror-lapped chamfers recorded for our NW8 atelier bench standard.
+              and mirror-lapped chamfers recorded for our Hatton Garden atelier bench standard.
             </p>
             <div className="reel-tabs-row" role="group" aria-label="Select macro cinema reel">
               {MACRO_REELS.map((reel, idx) => (
@@ -267,7 +267,7 @@ export const MacroCinemaReel: React.FC<MacroCinemaReelProps> = ({ onBookWaterSea
 
             <div className="macro-cta-banner mirror-glass-card">
               <div>
-                <strong>Watch Care Centre Ltd · Church Street NW8</strong>
+                <strong>Peri Watch Care Ltd · Hatton Garden EC1N</strong>
                 <p>All tests performed on-site with certificate of water resistance.</p>
               </div>
               <button

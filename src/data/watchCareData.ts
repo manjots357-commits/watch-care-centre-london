@@ -1,23 +1,23 @@
 import type { CalibrePerspectiveId, CaseFinishId } from '../engine/motionBridge';
 
 export const ATELIER_INFO = {
-  name: 'Watch Care Centre Ltd',
-  brandTitle: 'WATCH CARE CENTRE',
+  name: 'Peri Watch Care Ltd',
+  brandTitle: 'PERI WATCH CARE',
   brandCity: 'LONDON',
   editionLabel: 'Cosmic Twilight Edition',
-  addressShort: 'Shop G105, 13–25 Church St, NW8 8DT',
-  addressLine1: 'Shop G105, 13–25 Church Street',
-  addressLine2: 'London NW8 8DT, United Kingdom',
-  nearestStations: 'Nearest Stations: Marylebone · Edgware Road · Baker Street',
-  phoneDisplay: '+44 7737 364429',
-  phoneHref: 'tel:+447737364429',
+  addressShort: '67–68 Hatton Garden, Suite 18, EC1N 8JY',
+  addressLine1: 'New House, 67–68 Hatton Garden',
+  addressLine2: 'London EC1N 8JY, United Kingdom',
+  nearestStations: 'Nearest Stations: Farringdon · Chancery Lane · Holborn',
+  phoneDisplay: '020 7242 9998',
+  phoneHref: 'tel:+442072429998',
   whatsappHref:
-    'https://wa.me/447737364429?text=Hello%20Watch%20Care%20Centre%20London%2C%20I%20would%20like%20to%20arrange%20a%20timepiece%20assessment.',
-  email: 'wccltd24@hotmail.com',
-  emailHref: 'mailto:wccltd24@hotmail.com',
+    'https://wa.me/447394144570?text=Hello%20Watch%20Care%20Centre%20London%2C%20I%20would%20like%20to%20arrange%20a%20timepiece%20assessment.',
+  email: 'contact@perriwatchrepairs.com',
+  emailHref: 'mailto:contact@perriwatchrepairs.com',
   hoursWeekday: 'Monday – Saturday: 10:00 – 18:00',
   hoursSunday: 'Sunday: By Prior Appointment Only',
-  existingSiteUrl: 'https://www.google.com/maps/search/?api=1&query=Watch+Care+Centre+Ltd+13-25+Church+Street+London+NW8+8DT',
+  existingSiteUrl: 'https://perriwatchrepairs.com/',
 };
 
 export const MEDIA_PATHS = {
@@ -106,7 +106,7 @@ export const HERO_RIBBON_ITEMS: string[] = [
   'WITSCHI 6-AXIS CHRONOMETRY',
   '10 ATM HYPERBARIC SEAL PROOF',
   '904L LASER MICRO-WELDING',
-  'SHOP G105 · CHURCH STREET LONDON NW8',
+  'SUITE 18 · HATTON GARDEN LONDON EC1N',
 ];
 
 export interface FinishOption {
@@ -188,7 +188,7 @@ export const STUDIO_METRIC_CARDS: StudioMetricCard[] = [
   {
     id: 'atelier',
     eyebrow: 'London Atelier',
-    value: 'Church Street NW8',
+    value: 'Hatton Garden EC1N',
     detail: 'Independent master watchmaker bench service',
     iconKey: 'compass',
   },
@@ -480,7 +480,7 @@ export const SPECIALIST_BRAND_TABS: SpecialistBrandTab[] = [
     calibres: '3135 · 3235 · 4130 · 3186 · 3285',
     ctaLabel: 'ROLEX ENQUIRY',
     imageSrc: MEDIA_PATHS.brandRolexMacro,
-    imageCaption: 'Rolex Chronometer & Sports References · Church Street London',
+    imageCaption: 'Rolex Chronometer & Sports References · Hatton Garden London',
     watchBrandSelectValue: 'Rolex',
   },
   {
@@ -507,7 +507,7 @@ export const SPECIALIST_BRAND_TABS: SpecialistBrandTab[] = [
     calibres: '240 · 324 S C · 26-330 · CH 28-520 · 215 PS',
     ctaLabel: 'PATEK PHILIPPE ENQUIRY',
     imageSrc: MEDIA_PATHS.brandPatekMacro,
-    imageCaption: 'Geneva Complication & Ultra-Thin Calibres · Church Street London',
+    imageCaption: 'Geneva Complication & Ultra-Thin Calibres · Hatton Garden London',
     watchBrandSelectValue: 'Patek Philippe',
   },
   {
@@ -534,7 +534,7 @@ export const SPECIALIST_BRAND_TABS: SpecialistBrandTab[] = [
     calibres: 'RMAC1 · RMAC3 · RMUL2 · RM005 · RM011',
     ctaLabel: 'RICHARD MILLE ENQUIRY',
     imageSrc: MEDIA_PATHS.brandRmMacro,
-    imageCaption: 'Skeletonized Titanium & Tonneau Architecture · Church Street London',
+    imageCaption: 'Skeletonized Titanium & Tonneau Architecture · Hatton Garden London',
     watchBrandSelectValue: 'Richard Mille',
   },
 ];
@@ -561,7 +561,7 @@ export const VERIFIED_REVIEWS: VerifiedReview[] = [
     service: 'Timing Regulation & Hyperbaric Reseal',
     date: 'February 2026',
     quote:
-      'Brought my Submariner in after noticing it was losing 15 seconds a day. The team placed it directly on their electronic chronometer, diagnosed an amplitude drop, and regulated it to +1 second/day within 48 hours. Pressure test certificate provided upon collection. First-rate service on Church Street.',
+      'Brought my Submariner in after noticing it was losing 15 seconds a day. The team placed it directly on their electronic chronometer, diagnosed an amplitude drop, and regulated it to +1 second/day within 48 hours. Pressure test certificate provided upon collection. First-rate service in Hatton Garden.',
     categories: ['all', 'rolex'],
   },
   {
@@ -572,7 +572,7 @@ export const VERIFIED_REVIEWS: VerifiedReview[] = [
     service: 'Full Mechanical Overhaul',
     date: 'January 2026',
     quote:
-      'Finding independent horologists with the touch for Patek grand complications is difficult in Central London. Watch Care Centre handled my annual calendar with exceptional transparency, explaining each step of the disassembly and lubrication. The movement is now ticking silently and smoothly.',
+      'Finding independent horologists with the touch for Patek grand complications is difficult in Central London. Peri Watch Care handled my annual calendar with exceptional transparency, explaining each step of the disassembly and lubrication. The movement is now ticking silently and smoothly.',
     categories: ['all', 'patek', 'overhauls'],
   },
   {
@@ -594,7 +594,7 @@ export const VERIFIED_REVIEWS: VerifiedReview[] = [
     service: 'Gasket Renewal & Diagnostic Check',
     date: 'November 2025',
     quote:
-      'Honest advice, polite communication, and very fair turnaround time. Dropped off my watch during lunch and received a thorough explanation of its waterproof integrity. So glad to have a trustworthy local workshop in NW8.',
+      'Honest advice, polite communication, and very fair turnaround time. Dropped off my watch during lunch and received a thorough explanation of its waterproof integrity. So glad to have a trustworthy local workshop in Hatton Garden.',
     categories: ['all'],
   },
   {
@@ -605,7 +605,7 @@ export const VERIFIED_REVIEWS: VerifiedReview[] = [
     service: 'Calibre Overhaul & Mainspring Renewal',
     date: 'October 2025',
     quote:
-      'Older manual-wind Speedmaster needed attention after sitting in a safe for years. Watch Care Centre stripped it down, replaced the tired mainspring, and returned all worn parts in a sealed container alongside the timing printout. Outstanding craftsmanship.',
+      'Older manual-wind Speedmaster needed attention after sitting in a safe for years. Peri Watch Care stripped it down, replaced the tired mainspring, and returned all worn parts in a sealed container alongside the timing printout. Outstanding craftsmanship.',
     categories: ['all', 'overhauls'],
   },
 ];

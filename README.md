@@ -1,6 +1,6 @@
-# Watch Care Centre London — Cosmic Twilight Edition (3D WebGL & Geneva Editorial)
+# Peri Watch Care London — Cosmic Twilight Edition (3D WebGL & Geneva Editorial)
 
-Independent Haute Horlogerie restoration, Witschi 6-axis chronometry, and 10 ATM hyperbaric certification flagship website for **Watch Care Centre Ltd** (`Shop G105, 13–25 Church Street, London NW8 8DT`).
+Independent Haute Horlogerie restoration, Witschi 6-axis chronometry, and 10 ATM hyperbaric certification flagship website for **Peri Watch Care Ltd** (`New House, 67–68 Hatton Garden, London EC1N 8JY`).
 
 ## Key Highlights
 

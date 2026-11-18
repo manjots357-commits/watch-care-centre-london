@@ -315,7 +315,7 @@ export const App: React.FC = () => {
                 <div className="hero-telemetry-bar">
                   <span className="telemetry-live-badge">
                     <span className="telemetry-emerald-dot" aria-hidden="true" />
-                    <span>ATELIER OPEN · LONDON NW8</span>
+                    <span>ATELIER OPEN · LONDON EC1N</span>
                   </span>
                   <span className="telemetry-clock-chip">
                     <Clock size={12} aria-hidden="true" />
@@ -325,7 +325,7 @@ export const App: React.FC = () => {
 
                 <div className="hero-overline-rule">
                   <span className="gold-hairline" aria-hidden="true" />
-                  <span>INDEPENDENT HAUTE HORLOGERIE · SHOP G105 CHURCH STREET</span>
+                  <span>INDEPENDENT HAUTE HORLOGERIE · 67–68 HATTON GARDEN EC1N</span>
                 </div>
 
                 <h1 className="hero-architectural-h1">
@@ -383,7 +383,7 @@ export const App: React.FC = () => {
 
                   <div className="hero-bento-tile mirror-glass-card">
                     <span className="bento-kpi">12-Month</span>
-                    <span className="bento-caption">Written NW8 Mechanical Warranty</span>
+                    <span className="bento-caption">Written Hatton Garden Mechanical Warranty</span>
                   </div>
                 </div>
               </div>
@@ -468,8 +468,8 @@ export const App: React.FC = () => {
                 <div className="hero-floating-badge mirror-glass-card">
                   <MapPin size={15} className="text-gold-glow" aria-hidden="true" />
                   <div>
-                    <strong>13–25 Church Street</strong>
-                    <span>Shop G105 · London NW8 8DT</span>
+                    <strong>67–68 Hatton Garden</strong>
+                    <span>Suite 18 · London EC1N 8JY</span>
                   </div>
                 </div>
               </div>
@@ -555,16 +555,16 @@ export const App: React.FC = () => {
           />
 
           {/* =================================================================
-              02. HOROLOGICAL ATELIER · LONDON NW8 — ABOUT WATCH CARE CENTRE LTD
+              02. HOROLOGICAL ATELIER · LONDON EC1N — ABOUT PERI WATCH CARE LTD
              ================================================================= */}
           <section id="atelier" className="cosmic-section atelier-about-section">
             <div className="container-cosmic">
               <div className="section-header-split" data-reveal>
                 <div>
                   <span className="cosmic-eyebrow">
-                    <span>02. HOROLOGICAL ATELIER · LONDON NW8</span>
+                    <span>02. HOROLOGICAL ATELIER · LONDON EC1N</span>
                   </span>
-                  <h2 className="cosmic-h2">About Watch Care Centre Ltd</h2>
+                  <h2 className="cosmic-h2">About Peri Watch Care Ltd</h2>
                 </div>
                 <p className="cosmic-lead">
                   Preserving the precision, longevity, and heritage of fine mechanical timepieces in
@@ -576,11 +576,11 @@ export const App: React.FC = () => {
                 <div className="atelier-copy-column" data-reveal>
                   <p className="atelier-paragraph">
                     Established as a dedicated horological restoration workshop in London,{' '}
-                    <strong>Watch Care Centre Ltd</strong> provides meticulous servicing,
+                    <strong>Peri Watch Care Ltd</strong> provides meticulous servicing,
                     restoration, and aesthetic refinishing for premier Swiss mechanical timepieces.
                   </p>
                   <p className="atelier-paragraph">
-                    Our Church Street facility is equipped with industry-standard Swiss diagnostic
+                    Our Hatton Garden facility is equipped with industry-standard Swiss diagnostic
                     timing apparatus, including multi-position Witschi chronoscopes, specialized
                     ultrasonic cleaning lines, and hyperbaric pressure chambers. Every timepiece
                     entrusted to us undergoes complete deconstruction, sympathetic hand-finishing,
@@ -610,14 +610,14 @@ export const App: React.FC = () => {
 
                   <div className="atelier-location-bar mirror-glass-card">
                     <MapPin size={16} className="text-violet-glow" aria-hidden="true" />
-                    <span>Shop G105, 13–25 Church Street, London NW8 8DT</span>
+                    <span>New House, 67–68 Hatton Garden, London EC1N 8JY</span>
                   </div>
                 </div>
 
                 <figure className="atelier-portrait-frame mirror-glass-card" data-reveal>
                   <img
                     src={MEDIA_PATHS.watchmakerPortrait}
-                    alt="Master watchmaker at Watch Care Centre London regulating a mechanical movement under magnification"
+                    alt="Master watchmaker at Peri Watch Care London regulating a mechanical movement under magnification"
                     width={1200}
                     height={800}
                     loading="lazy"
@@ -884,7 +884,7 @@ export const App: React.FC = () => {
               <div className="independent-disclosure-box mirror-glass-card" data-reveal>
                 <Info size={17} className="text-violet-glow" aria-hidden="true" />
                 <p>
-                  <strong>Independent Atelier Disclosure:</strong> Watch Care Centre Ltd is an
+                  <strong>Independent Atelier Disclosure:</strong> Peri Watch Care Ltd is an
                   independent horological workshop and is not an authorized distributor, agent, or
                   representative of Rolex SA, Patek Philippe SA, Richard Mille, or any other
                   mentioned watchmaker. All brand names, model names, and registered trademarks are
@@ -924,11 +924,11 @@ export const App: React.FC = () => {
                 />
                 <figcaption className="craftsmanship-overlay-card mirror-glass-card">
                   <span className="cosmic-mono-tag">
-                    ATELIER BENCHWORK PROTOCOL · LONDON NW8
+                    ATELIER BENCHWORK PROTOCOL · LONDON EC1N
                   </span>
                   <p>
                     Hand-dressed escapement pivots, Bergeon torque-calibrated screwdriver sets, and
-                    dust-controlled casing chambers on Church Street.
+                    dust-controlled casing chambers in Hatton Garden.
                   </p>
                 </figcaption>
               </figure>
@@ -963,7 +963,7 @@ export const App: React.FC = () => {
                   <h3>72-Hour Multi-Axis Audit</h3>
                   <p>
                     Six-position rate, beat-error, and power-reserve verification prior to client
-                    handover at NW8.
+                    handover in Hatton Garden.
                   </p>
                 </div>
               </div>
@@ -1092,7 +1092,7 @@ export const App: React.FC = () => {
                 <ul role="list" className="footer-contact-list">
                   <li>
                     <MapPin size={14} className="text-violet-glow" aria-hidden="true" />
-                    <span>Shop G105, 13–25 Church Street, London NW8 8DT</span>
+                    <span>New House, 67–68 Hatton Garden, London EC1N 8JY</span>
                   </li>
                   <li>
                     <Phone size={14} className="text-violet-glow" aria-hidden="true" />
@@ -1197,11 +1197,11 @@ export const App: React.FC = () => {
             <div className="footer-disclaimers-box">
               <p>
                 <strong>Redesign Concept Notice:</strong> This digital experience is an ultra-luxury
-                real-time 3D WebGL website redesign concept created for Watch Care Centre Ltd,
+                real-time 3D WebGL website redesign concept created for Peri Watch Care Ltd,
                 London. It is presented for concept evaluation and design review.
               </p>
               <p>
-                <strong>Trademark Disclaimer:</strong> Watch Care Centre Ltd is an independent watch
+                <strong>Trademark Disclaimer:</strong> Peri Watch Care Ltd is an independent watch
                 service and repair facility. We are not an authorized agent, distributor, or
                 representative of Rolex Watch U.S.A. Inc., Rolex SA, Patek Philippe SA, Richard
                 Mille, Audemars Piguet, Omega SA, Cartier, or any other trademark owner. All brand
@@ -1213,7 +1213,7 @@ export const App: React.FC = () => {
 
             <div className="footer-bottom-row">
               <p>
-                © 2026 Watch Care Centre Ltd. Registered in England &amp; Wales. All rights
+                © 2026 Peri Watch Care Ltd. Registered in England &amp; Wales. All rights
                 reserved.
               </p>
               <button
