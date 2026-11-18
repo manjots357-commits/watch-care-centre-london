@@ -285,12 +285,3 @@ export const MacroCinemaReel: React.FC<MacroCinemaReelProps> = ({ onBookWaterSea
     </section>
   );
 };
-ria-hidden="true" />
-              </button>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-  );
-};
